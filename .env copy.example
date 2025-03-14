@@ -1,0 +1,7 @@
+DB_HOST=localhost
+DB_NAME=movie_db
+DB_USER=root
+DB_PASS=
+
+# Get this from Google Cloud Console
+YOUTUBE_API_KEY=
